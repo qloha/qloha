@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @qloha
-- 👀 I’m interested minecraft development
-- 🌱 I’m currently learning java & javascript (+ more!)
-- 💞️ I’m looking to collaborate on nothing right now
+- 👋 Hi, I’m qloha
+- 🤝 Currently working on Raven-XD
 - 📫 You can contact me via youtube (https://youtube.com/@qloha).
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ;D
+- ⚡ subscribe to my youtube channel
 
 <!---
 qloha/qloha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
