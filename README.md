@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Python, HTML, etc.**
 
-- 📫 Contact me at **[my Github](https://github.com/qloha)**
+- 📫 Contact me at [my Github](https://github.com/qloha)
 
 - ⚡ Fun fact **Platypuses sweat milk.**
 
