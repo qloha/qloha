@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qloha" alt="qloha" /></a> </p>
 
-- 🔭 I’m currently working on [my portfolio](https://qloha.github.io/portfolio)
+- 🔭 I’m currently working on [my portfolio](https://qloha.github.io/about)
 
 - 🌱 I’m currently learning **React**
 
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Python, HTML, etc.**
 
-- 📫 How to reach me **https://github.com/qloha**
+- 📫 Contact me at **[my Github](https://github.com/qloha)**
 
 - ⚡ Fun fact **Platypuses sweat milk.**
 
